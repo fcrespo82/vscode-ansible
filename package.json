@@ -1,10 +1,10 @@
 {
-  "name": "vscode-ansible",
-  "displayName": "Ansible",
+  "name": "vscode-ansible-fcrespo82",
+  "displayName": "Ansible (by fcrespo82)",
   "description": "VSCode extension for Ansible",
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "0.5.2",
-  "publisher": "vscoss",
+  "version": "0.5.3",
+  "publisher": "fcrespo82",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.31.0"
@@ -21,9 +21,9 @@
   ],
   "aiKey": "c0832760-3476-4e38-8ffc-32624202fcf1",
   "repository": {
-    "url": "https://github.com/VSChina/vscode-ansible.git"
+    "url": "https://github.com/fcrespo82/vscode-ansible.git"
   },
-  "homepage": "https://github.com/VSChina/vscode-ansible/blob/master/README.md",
+  "homepage": "https://github.com/fcrespo82/vscode-ansible/blob/master/README.md",
   "activationEvents": [
     "onLanguage:yaml",
     "onLanguage:ansible",

@@ -1,15 +1,16 @@
 {
     "name": "ansible",
+    "displayName": "Ansible Server (by fcrespo82)",
     "description": "Ansible Playbook Language Server",
     "version": "0.0.1",
-    "author": "yungez",
+    "author": "fcrespo82",
     "license": "MIT",
     "engines": {
         "node": "*"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vschina/vscode-ansible.git"
+        "url": "https://github.com/fcrespo82/vscode-ansible.git"
     },
     "scripts": {
         "installserver": "installServerIntoExtension ../out ./package.json ./tsconfig.json",
